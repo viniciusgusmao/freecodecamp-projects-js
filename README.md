@@ -14,14 +14,12 @@ My goals with this project is to practice and improve my skills in Javascript.
 ## Proposed projects
 
 ### 1. Palindrome Checker
-*done*
 
 Return true if the given string is a palindrome. Otherwise, return false.
 
 A palindrome is a word or sentence that's spelled the same way both forward and backward, ignoring punctuation, case, and spacing.
 
 ### 2. Roman Numeral Converter
-*done*
 
 Convert the given number into a roman numeral.
 
